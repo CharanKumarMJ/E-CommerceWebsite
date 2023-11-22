@@ -1,0 +1,11 @@
+img{
+    width: 150px;
+    height:220px;
+    object-fit: contain;
+}
+
+#Great{
+    width: 1200px;
+    height: 200px;
+    object-fit: fill;
+}
